@@ -1,0 +1,11 @@
+ArrayImplement.cpp:
+This File implements MyClass in ArrayList Method.
+
+LListImplement.cpp:
+This File implements MyClass in singly linked list method.
+
+Offline-main.cpp:
+This File is for checking Array Implementation and linked List implementation of MyList Class.
+
+LRU_Implement:
+This Implements the LRU(Least Recently Used) Myclass.
